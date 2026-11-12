@@ -1,0 +1,27 @@
+{
+  "name": "remixviral",
+  "displayName": "RemixViral",
+  "version": "1.0.0",
+  "description": "Read the ranked, captioned Shorts RemixViral cut from long videos you own, and make faceless Shorts from a topic, from Claude Code. Faceless videos spend credits and ask first.",
+  "author": {
+    "name": "RemixViral",
+    "email": "support@remixviral.ai",
+    "url": "https://remixviral.ai"
+  },
+  "homepage": "https://remixviral.ai/en/developers",
+  "repository": "https://github.com/airdropfi/remixviral-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "clips",
+    "shorts",
+    "podcast clips",
+    "faceless video",
+    "mcp"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://remixviral.ai/en/developers",
+  "supportUrl": "https://remixviral.ai/en/support",
+  "privacyPolicyUrl": "https://remixviral.ai/en/privacy",
+  "termsOfServiceUrl": "https://remixviral.ai/en/terms"
+}

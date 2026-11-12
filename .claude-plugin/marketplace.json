@@ -1,0 +1,23 @@
+{
+  "name": "remixviral-plugins",
+  "description": "Claude Code plugins from RemixViral (remixviral.ai).",
+  "owner": {
+    "name": "RemixViral",
+    "email": "support@remixviral.ai",
+    "url": "https://remixviral.ai"
+  },
+  "plugins": [
+    {
+      "name": "remixviral",
+      "source": "./plugins/remixviral",
+      "description": "Read the ranked Shorts RemixViral cut from your long videos, and make faceless Shorts from a topic. Faceless videos spend credits and ask first.",
+      "category": "productivity",
+      "tags": [
+        "video",
+        "shorts",
+        "clips",
+        "mcp"
+      ]
+    }
+  ]
+}
